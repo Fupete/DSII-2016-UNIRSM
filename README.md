@@ -81,5 +81,5 @@ Giovedì ore 18:30
 21 Aprile - 19 Maggio **design | prototype | doc**  
 27 Maggio - 10 Giugno **show**
 
-Dettagliato: [syllabus.md](/blob/master/syllabus.md)
+Dettagliato: [syllabus.md](/syllabus.md)
 
