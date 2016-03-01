@@ -73,3 +73,13 @@ Conoscenza lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito 
 
 ## Orario di ricevimento
 Giovedì ore 18:30
+
+## syllabus
+
+25 Febbbraio - 17 Marzo **intro**    
+24 Marzo - 7 Aprile **research | concept**   
+21 Aprile - 19 Maggio **design | prototype | doc**  
+27 Maggio - 10 Giugno **show**
+
+Dettagliato: [syllabus.md](/blob/master/syllabus.md)
+
