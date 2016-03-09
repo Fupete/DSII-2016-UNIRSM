@@ -14,6 +14,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W0
 ###Studio Azzurro. _Musei e spazi sensibili._
 
+![Museo della mente, 2008, Studio Azzurro](http://i.imgur.com/reqRHOs.jpg?1) ![Museo dell'acqua di Siena, 2010, Studio Azzurro & Mizar](http://i.imgur.com/4sI9MNO.jpg?1) ![Museo audiovisivo della Resistenza, 2000, Studio Azzurro](http://i.imgur.com/Jf75XmS.jpg?1)
+
 - _Museo della mente_, 2008, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=42&option=com_works&Itemid=22&lang=it) [+](http://www.museodellamente.it/it/)
 - _Museo dell'acqua di Siena_, 2010, Studio Azzurro & Mizar [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=93&option=com_works&Itemid=27&lang=it) [+](https://www.youtube.com/watch?v=qeYkPmNkQK4)
 - _Museo audiovisivo della Resistenza_, 2000, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=68&option=com_works&Itemid=22&lang=en) [+](https://vimeo.com/34843796)
