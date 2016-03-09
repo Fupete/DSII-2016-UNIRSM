@@ -11,6 +11,12 @@ Università della Repubblica di San Marino
 _Digital Art and Meaning: ..._, Simanowski 2011 :
 > (_Introduction p.21_) — In postmodern times, interpretation is no longer about control or truth. It is not about solving the puzzle of meaning that a work of art represents. It is about suggesting, playing with ideas, reflecting, and sharing thoughts and feelings triggered by interaction with the artwork. Hermeneutics can be considered "a metatheory of the play of interpretations" (Vattimo 1997, 9). No single interpretation should be the end of this process, but there should also be no end to interpretation.
 
+## W0
+###Studio Azzurro. _Musei e spazi sensibili._
+
+- _Museo della mente_, 2008, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=42&option=com_works&Itemid=22&lang=it) [+](http://www.museodellamente.it/it/)
+- _Museo dell'acqua di Siena_, 2010, Studio Azzurro & Mizar [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=93&option=com_works&Itemid=27&lang=it) [+](https://www.youtube.com/watch?v=qeYkPmNkQK4)
+- _Museo audiovisivo della Resistenza_, 2000, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=68&option=com_works&Itemid=22&lang=en) [+](https://vimeo.com/34843796)
 
 ## W1
 ###Introduzione. _Digital Art and Meaning._
