@@ -41,13 +41,13 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ---
 
 ###### compito
-1. _10 Print_/35, _porting in processing_ + variazioni significative
+1. _10 Print_/Cap. 35, _porting in processing_ + variazioni _significative_
 
 ###### compito/progetto
-1. Git/Github
+1. Git/Github hello
 
 
-## W2
+## W2-3
 ### Il progetto. _Making visible._
 
 ![The flow towards Europe, 2015, Lucify](http://i.imgur.com/k9lRhdY.png?1) ![Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen](http://i.imgur.com/4wU4Oia.jpg?1) ![Monument, 2006, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
@@ -57,8 +57,30 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Monument_, 2006, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)  
 
 ### Lab
-- Git/Github
-- Processing
+- Processing [+](http://www.processing.org)
+ - _sketches_, approccio espressivo
+ - commenti, formattazione, estetica della scrittura
+ - sintassi/_grammatica della lingua_
+ - _reference_/_dizionario della lingua_ [+](http://www.processing.org/reference)
+ - librerie/_estendere la lingua_
+- P5js [+](http://www.p5js.org)
+- Linguaggi di programmazione _creativa_
+ - { _scritti_ } Processing, OpenFrameworks, Cinder, ...
+ - { _visivi_ } Isadora, Touch Designer, Pure Data, ...
+- Github: intro profili, _repositories_/_cassetti_ e _commit_ [+](http://guides.github.com)
+- Scrivere in _markdown_: _'.md'_  
+
+###### compiti
+1. _10 Print_/35, _porting in processing_ + variazioni significative
+2. _10 Print_ in p5js
+
+###### letture/progetto W2
+1. tre casi studio di riferimento
+
+###### compiti/progetto W3
+1. due idee
+
+
 
 ---
 
