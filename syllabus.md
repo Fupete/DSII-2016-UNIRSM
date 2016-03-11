@@ -47,7 +47,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. Git/Github hello
 
 
-## W2-3
+## W2
 ### Il progetto. _Making visible._
 
 ![The flow towards Europe, 2015, Lucify](http://i.imgur.com/k9lRhdY.png?1) ![Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen](http://i.imgur.com/4wU4Oia.jpg?1) ![Monument, 2006, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
@@ -77,9 +77,12 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###### letture/progetto W2
 1. tre casi studio di riferimento
 
-###### compiti/progetto W3
+###### compiti/progetto W4
 1. due idee
 
+
+## W3
+### _Openday._
 
 
 ---
