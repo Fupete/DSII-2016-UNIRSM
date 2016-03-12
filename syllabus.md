@@ -38,8 +38,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - FS-UAE Amiga Emulator [+](http://fs-uae.net/)
 - Deluxe Paint I [+](http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/)
 
----
-
 ###### compito
 1. _10 Print_/Cap. 35, _porting in processing_ + variazioni _significative_
 
@@ -69,8 +67,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
  - { _visivi_ } Isadora, Touch Designer, Pure Data, ...
 - Github: intro profili, _repositories_/_cassetti_ e _commit_ [+](http://guides.github.com)
 - Scrivere in _markdown_: _'.md'_  
-
----
 
 ###### compiti
 1. _10 Print_/35, _porting in processing_ + variazioni significative
