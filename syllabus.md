@@ -70,6 +70,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Github: intro profili, _repositories_/_cassetti_ e _commit_ [+](http://guides.github.com)
 - Scrivere in _markdown_: _'.md'_  
 
+---
+
 ###### compiti
 1. _10 Print_/35, _porting in processing_ + variazioni significative
 2. _10 Print_ in p5js
