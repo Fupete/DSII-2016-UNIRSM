@@ -38,13 +38,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - FS-UAE Amiga Emulator [+](http://fs-uae.net/)
 - Deluxe Paint I [+](http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/)
 
----
-
 ###### compito
-1. _10 Print_/35, _porting in processing_ + variazioni significative
+1. _10 Print_/Cap. 35, _porting in processing_ + variazioni _significative_
 
 ###### compito/progetto
-1. Git/Github
+1. Git/Github hello
 
 
 ## W2
@@ -57,9 +55,32 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Monument_, 2006, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)  
 
 ### Lab
-- Git/Github
-- Processing [+](http://www.processing.org/reference)
-- P5js [+](http://p5js.org)
+- Processing [+](http://www.processing.org)
+ - _sketches_, approccio espressivo
+ - commenti, formattazione, estetica della scrittura
+ - sintassi/_grammatica della lingua_
+ - _reference_/_dizionario della lingua_ [+](http://www.processing.org/reference)
+ - librerie/_estendere la lingua_
+- P5js [+](http://www.p5js.org)
+- Linguaggi di programmazione _creativa_
+ - { _scritti_ } Processing, OpenFrameworks, Cinder, ...
+ - { _visivi_ } Isadora, Touch Designer, Pure Data, ...
+- Github: intro profili, _repositories_/_cassetti_ e _commit_ [+](http://guides.github.com)
+- Scrivere in _markdown_: _'.md'_  
+
+###### compiti
+1. _10 Print_/35, _porting in processing_ + variazioni significative
+2. _10 Print_ in p5js
+
+###### letture/progetto W2
+1. tre casi studio di riferimento
+
+###### compiti/progetto W4
+1. due idee
+
+
+## W3
+### _Openday._
 
 ---
 
