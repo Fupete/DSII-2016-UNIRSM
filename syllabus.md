@@ -84,7 +84,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W3
 ### _Openday._
 
-
 ---
 
 _in progress_
