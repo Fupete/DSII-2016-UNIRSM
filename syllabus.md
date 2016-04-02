@@ -64,6 +64,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ###### letture/progetto W2
 1. lettura tre casi studio di riferimento
+2. lettura tre casi studio Studio Azzurro
 
 ## W3
 ### _Openday._
@@ -78,20 +79,21 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Monument_, 2006, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)  
 
 ### Lab
-- _Close reading/what does it mean_: metodi, strumenti e approcci.
-- _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli
-- Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_...
+- _Close reading/what does it mean_: metodo e approccios
+- _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
+- Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/)
 
 ###### compiti
-1. _10 Print_ porting in p5js
+1. _10 Print_ un porting in p5js + una variazione significativa
 
 ###### compiti/progetto
-1. due/tre idee
+1. due/tre idee di progetto
 
-###### letture/progetto W2
+###### letture/progetto
 1. rilettura tre casi studio di riferimento
+2. rilettura tre casi studio Studio Azzurro
 
-###### { d'ora in poi tutte consegne su Github via _pull request_ }
+###### { d'ora in poi tutte consegne su Github via _pull request_, comunicazioni urgenti via _gitter_ }
 
 ---
 
