@@ -113,6 +113,12 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 2. algoritmo/trasformazione
 3. significato/senso
 
+###### compiti
+1. _10 Print_ variazione significativa su [p5/10print](https://github.com/dsii-2016-unirsm/dsii-2016-unirsm.github.io/tree/master/p5/10print)
+
+###### compiti/progetto
+1. una proposta progettuale
+
 ---
 
 _in progress_
