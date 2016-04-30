@@ -82,6 +82,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Close reading/what does it mean_: metodo e approccios
 - _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
 - Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/)
+- _10 Print Wall_ [p5/10print/fupete](https://github.com/dsii-2016-unirsm/dsii-2016-unirsm.github.io/tree/master/p5/10print/fupete) 
 
 ###### compiti
 1. _10 Print_ un porting in p5js + una variazione significativa
@@ -94,6 +95,29 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 2. rilettura tre casi studio Studio Azzurro
 
 ###### { d'ora in poi tutte consegne su Github via _pull request_, comunicazioni urgenti via _gitter_ }
+
+## W6
+### _Arduino & friends_
+
+## W7
+### Concepts. _Oop._
+
+### Lab
+1. Oop [+](https://processing.org/tutorials/objects)
+2. _Walkers wall_ [p5/oop/fupete](https://github.com/dsii-2016-unirsm/dsii-2016-unirsm.github.io/tree/master/p5/oop/fupete) 
+3. Generative design [+](https://en.wikipedia.org/wiki/Generative_Design#/media/File:Generative_Design_Process.png)
+4. _Generative Design: Visualize, Program, and Create with Processing_, Benedikt Gross, Julia Laub, Claudius Lazzeroni and Hartmut Bohnacker [+](http://www.generative-gestaltung.de)
+
+###### progetto
+1. dati/dataset
+2. algoritmo/trasformazione
+3. significato/senso
+
+###### compiti
+1. _10 Print_ variazione significativa su [p5/10print](https://github.com/dsii-2016-unirsm/dsii-2016-unirsm.github.io/tree/master/p5/10print)
+
+###### compiti/progetto
+1. una proposta progettuale
 
 ---
 
