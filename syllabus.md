@@ -124,7 +124,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ![Rêvolutions: France pavillion @ Biennale Venezia, 2015, Céleste Boursier-Mougenot](http://i.imgur.com/vqyXP3g.jpg?1) ![Dataflags, 2014, Fabio Lattanzi Antinori](http://i.imgur.com/OwYaPWr.jpg?1) ![Words, 2009, Greyworld ](http://i.imgur.com/Bb9Q7Y3.jpg?1) 
 
-_Rêvolutions: France pavillion @ Biennale Venezia_, 2015, Céleste Boursier-Mougenot [+](http://www.designboom.com/art/celeste-boursier-mougenot-venice-art-biennale-french-pavilion-05-06-2015/)
+- _Rêvolutions: France pavillion @ Biennale Venezia_, 2015, Céleste Boursier-Mougenot [+](http://www.designboom.com/art/celeste-boursier-mougenot-venice-art-biennale-french-pavilion-05-06-2015/)
 - _Dataflags_, 2014, Fabio Lattanzi Antinori [+](http://fabiolattanziantinori.com/Dataflags.php)
 - _Words_, 2009, Greyworld [+](http://greyworld.org/archives/37)
 
