@@ -100,7 +100,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### _Arduino & friends_
 
 ## W7
-### Concepts. _Oop._
+### Concept. _Oop._
 
 ### Lab
 1. Oop [+](https://processing.org/tutorials/objects)
@@ -118,6 +118,49 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ###### compiti/progetto
 1. una proposta progettuale
+
+## W8
+### Proposte progettuali, revisione. _Milestone._
+
+![Rêvolutions: France pavillion @ Biennale Venezia, 2015, Céleste Boursier-Mougenot](http://i.imgur.com/vqyXP3g.jpg?1) ![Dataflags, 2014, Fabio Lattanzi Antinori](http://i.imgur.com/OwYaPWr.jpg?1) ![Words, 2009, Greyworld ](http://i.imgur.com/Bb9Q7Y3.jpg?1) 
+
+- _Rêvolutions: France pavillion @ Biennale Venezia_, 2015, Céleste Boursier-Mougenot [+](http://www.designboom.com/art/celeste-boursier-mougenot-venice-art-biennale-french-pavilion-05-06-2015/)
+- _Dataflags_, 2014, Fabio Lattanzi Antinori [+](http://fabiolattanziantinori.com/Dataflags.php)
+- _Words_, 2009, Greyworld [+](http://greyworld.org/archives/37)
+
+### Lab
+1. librerie Processing [+](https://processing.org/reference/libraries/)
+2. % (modulo) Processing 2+ [+](https://processing.org/reference/modulo.html)
+3. frameCount [+](https://processing.org/reference/frameCount.html)
+4. ...
+
+### concept/progetto
+1. Caterina | I-Plants [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/Caterina/Invisibile-projects/I-Plants.md)
+2. r4ff4ella | Colore [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/r4ff4ella/visibile_invisibile/colore.md)
+3. clausca | Fingerprint [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/clausca/MakingVisible/Fingerprint_inProgress.md)
+4. romana31f | Workforce Ink [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/romana31f/idee-progetto/03_Workforce_Ink.md)
+5. gpinna | Tempo [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/gpinna/INVISIBILE/propostaUNO.md)
+6. michele | Sentieri Invisibili [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/Michele/Invisibile_ipotesi_3.md)
+7. MalQu | Prendi aria [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/MalQu/project/prendi%20aria.md)
+8. anthony_cosentino | nd
+9. alexalessi | Movimento e tempo [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/alexalessi/visibile-invisibile/tema3.md)
+10. MCSotgiu | nd
+
+###### compiti
+1. _10 Print_ variazione significativa su [p5/10print](https://github.com/dsii-2016-unirsm/dsii-2016-unirsm.github.io/tree/master/p5/10print)
+ 
+###### compiti/progetto
+1. sviluppo analisi, dataset, referenze, blocchi e obiettivi 
+2. approccio a parti del progetto in Processing o P5
+3. analisi problematiche di realizzazione prototipi/tempistiche
+
+## W9
+
+## W10
+
+## W11
+
+## W12
 
 ---
 
