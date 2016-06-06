@@ -155,12 +155,34 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 3. analisi problematiche di realizzazione prototipi/tempistiche
 
 ## W9
+### Lab, revisioni.
 
 ## W10
+### Lab, revisioni.
+
+### progetto
+1. Caterina | I-Plants [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/Caterina/Invisibile-projects/I-Plants.md)
+2. r4ff4ella | Colore [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/r4ff4ella/visibile_invisibile/colore.md)
+3. clausca | Fingerprint [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/clausca/MakingVisible/Fingerprint.md)
+4. romana31f | Workforce Ink [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/romana31f/Progetto/Testi/Insideout.md)
+5. gpinna | Tempo [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/gpinna/INVISIBILE/TempoUNO.md)
+6. michele | Sentieri Invisibili [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/Michele/Sentieri_invisibili.md)
+7. MalQu | Prendi aria [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/MalQu/project/prendi%20aria.md)
+8. anthony_cosentino | [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/anthony_cosentino/proposte_progettuali/01waves.md)
+9. alexalessi | Amicizia, legame nascosto [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/alexalessi/visibile-invisibile/Amicizia/Legame%20amicizia.md)
+10. MCSotgiu | Parole d'odio [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/MCSotgiu/invisibile/parole_odio.md)
 
 ## W11
+### Lab progetto, revisioni.
 
 ## W12
+### Sito web e critica collettiva. _Milestone._
+
+## W13/E
+### Consegna doc. _Milestone._
+
+## W15/E
+### Esami e pubblicazione.
 
 ---
 
