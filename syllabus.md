@@ -164,7 +164,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. Caterina | I-Plants [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/Caterina/Invisibile-projects/I-Plants.md)
 2. r4ff4ella | Colore [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/r4ff4ella/visibile_invisibile/colore.md)
 3. clausca | Fingerprint [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/clausca/MakingVisible/Fingerprint.md)
-4. romana31f | Workforce Ink [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/romana31f/Progetto/Testi/Insideout.md)
+4. romana31f | Insideout [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/romana31f/Progetto/Testi/Insideout.md)
 5. gpinna | Tempo [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/gpinna/INVISIBILE/TempoUNO.md)
 6. michele | Sentieri Invisibili [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/Michele/Sentieri_invisibili.md)
 7. MalQu | Prendi aria [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/MalQu/project/prendi%20aria.md)
