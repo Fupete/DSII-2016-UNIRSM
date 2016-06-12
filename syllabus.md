@@ -179,16 +179,16 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Sito web e critica collettiva. _Milestone._
 
 ### progetto
-1. Caterina | I-Plants [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/Caterina/Invisibile-projects/Iplant.pdf)
-2. r4ff4ella | Colore 
-3. clausca | Fingerprint [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/clausca/MakingVisible/Libretto_bozza.pdf)
-4. romana31f | Insideout [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/romana31f/Progetto/DOC/LQ_ROSSI_libro_DSII2016_modello-progetto.pdf)
-5. gpinna | Tempo [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/gpinna/PROGETTO_INVISIBILE/imp_gpinna2.pdf)
-6. michele | Sentieri Invisibili 
-7. MalQu | Prendi aria [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/MalQu/project/quartana_modello-progetto.pdf)
-8. anthony_cosentino | [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/anthony_cosentino/proposte_progettuali/Anthony%20Cosentino.pdf)
-9. alexalessi | Amicizia, legame nascosto [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/alexalessi/visibile-invisibile/Amicizia/presentazione_bozza.pdf)
-10. MCSotgiu | Parole d'odio [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/MCSotgiu/invisibile/Parole_Tossiche.pdf)
+1. Caterina | I-Plants [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/Caterina.pdf)
+2. r4ff4ella | Colore [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/r4ff4ella.pdf)
+3. clausca | Fingerprint [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/clausca.pdf)
+4. romana31f | Insideout [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/romana31f.pdf)
+5. gpinna | Tempo [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/gpinna.pdf)
+6. michele | Sentieri Invisibili [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/Michele.pdf)
+7. MalQu | Prendi aria [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/MalQu.pdf)
+8. anthony_cosentino | [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/anthony_cosentino.pdf)
+9. alexalessi | Amicizia, legame nascosto [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/alexalessi.pdf)
+10. MCSotgiu | Parole d'odio [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/MCSotgiu.pdf)
 
 ## W13/E
 ### Consegna doc. _Milestone._
