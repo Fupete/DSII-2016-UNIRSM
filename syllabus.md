@@ -164,7 +164,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. Caterina | I-Plants [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/Caterina/Invisibile-projects/I-Plants.md)
 2. r4ff4ella | Colore [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/r4ff4ella/visibile_invisibile/colore.md)
 3. clausca | Fingerprint [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/clausca/MakingVisible/Fingerprint.md)
-4. romana31f | Workforce Ink [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/romana31f/Progetto/Testi/Insideout.md)
+4. romana31f | Insideout [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/romana31f/Progetto/Testi/Insideout.md)
 5. gpinna | Tempo [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/gpinna/INVISIBILE/TempoUNO.md)
 6. michele | Sentieri Invisibili [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/Michele/Sentieri_invisibili.md)
 7. MalQu | Prendi aria [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/MalQu/project/prendi%20aria.md)
@@ -177,6 +177,18 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ## W12
 ### Sito web e critica collettiva. _Milestone._
+
+### progetto
+1. Caterina | I-Plants [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/Caterina.pdf)
+2. r4ff4ella | Colore [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/r4ff4ella.pdf)
+3. clausca | Fingerprint [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/clausca.pdf)
+4. romana31f | Insideout [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/romana31f.pdf)
+5. gpinna | Tempo [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/gpinna.pdf)
+6. michele | Sentieri Invisibili [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/Michele.pdf)
+7. MalQu | Prendi aria [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/MalQu.pdf)
+8. anthony_cosentino | [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/anthony_cosentino.pdf)
+9. alexalessi | Amicizia, legame nascosto [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/alexalessi.pdf)
+10. MCSotgiu | Parole d'odio [+ PDF bozza](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/bozze/MCSotgiu.pdf)
 
 ## W13/E
 ### Consegna doc. _Milestone._
