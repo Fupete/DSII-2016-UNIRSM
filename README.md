@@ -10,7 +10,7 @@ Collaboratore: _Giuseppe D'Ambrosio_  ([github.com/dambrosiodesigner](http://git
 Università della Repubblica di San Marino
 
 ## Obiettivi
-Lo studente acquisisce la capacità di gestire e progettare sistemi relazionali e interattivi legati alla comunicazione e al product design, nonché la capacità di gestire ambienti simulativi del progetto in contesti di media dimensione. Lo studio avanzato dei linguaggi di programmazione per la grafica come Processing e Javascript, l'utilizzo di tecnologie di prototipazione digitale come Arduino, sono requisiti che lo studente deve acquisire all’interno dell'insegnamento.
+Lo studente acquisisce la capacità di gestire e progettare sistemi relazionali e interattivi legati alla comunicazione e al product design, nonché la capacità di gestire ambienti simulativi del progetto in contesti di media dimensione. Lo studio avanzato del linguaggio di programmazione per il design Processing/P5.js, l'introduzione ai linguaggi di programmazione Python e Javascript, l'utilizzo di tecnologie di prototipazione digitale come Arduino, sono requisiti che lo studente deve acquisire all’interno dell'insegnamento.
 
 ## Descrizione del progetto
 
@@ -32,10 +32,10 @@ Evidendiare, far emergere, rendere tangibili e dotate di fisicità quelle _carat
 - _Monument_, 2006, Caleb Larsen
 
 ### Strumenti
-Partecipazione. Lapis e carta. Software e hardware _opensource_ (Git, Vim, Atom, Processing, P5js, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (_Bring Your Own Device_). Laboratorio di fotografia.
+Partecipazione. Lapis e carta. Software e hardware opensource (Git, Atom, Processing, P5.js, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (Bring Your Own Device). Laboratorio di fotografia e stampa 3D.
 
 ### _Repository_
-[github.com/dsii-2016-unirsm](https://github.com/dsii-2016-unirsm)
+[github.com/dsii-2017-unirsm](https://github.com/dsii-2017-unirsm)
 
 ## Modalità esame
 Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documentazione e contributi), discussione 
@@ -76,10 +76,10 @@ Giovedì ore 18:30
 
 ## syllabus
 
-25 Febbbraio - 17 Marzo **intro**    
-24 Marzo - 7 Aprile **research | concept**   
-21 Aprile - 19 Maggio **design | prototype | doc**  
-27 Maggio - 10 Giugno **show**
+2 Marzo - 24 Marzo **intro | concept | tools**    
+30 Marzo - 21 Aprile **research | concept**   
+27 Aprile - 25 Maggio **design | prototype | doc**  
+1 Giugno - 9 Giugno **show**
 
-Dettagliato: [syllabus.md](/syllabus.md)
+Dettagliato: _work in progress_
 
