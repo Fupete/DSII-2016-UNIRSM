@@ -79,7 +79,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Monument_, 2006, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)  
 
 ### Lab
-- _Close reading/what does it mean_: metodo e approccios
+- _Close reading/what does it mean_: metodo e approccio
 - _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
 - Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/)
 - _10 Print Wall_ [p5/10print/fupete](https://github.com/dsii-2016-unirsm/dsii-2016-unirsm.github.io/tree/master/p5/10print/fupete) 
